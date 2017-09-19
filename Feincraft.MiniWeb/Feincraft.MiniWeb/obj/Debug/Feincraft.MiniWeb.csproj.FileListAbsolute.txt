@@ -1,0 +1,9 @@
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\bin\Debug\Feincraft.MiniWeb.exe.config
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\bin\Debug\Feincraft.MiniWeb.exe
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\bin\Debug\Feincraft.MiniWeb.pdb
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\obj\Debug\Feincraft.MiniWeb.csprojResolveAssemblyReference.cache
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\obj\Debug\Feincraft.MiniWeb.Properties.Resources.resources
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\obj\Debug\Feincraft.MiniWeb.csproj.GenerateResource.Cache
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\obj\Debug\Feincraft.MiniWeb.exe
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\obj\Debug\Feincraft.MiniWeb.pdb
+C:\Users\ifain\OneDrive\Devel\MiniWeb\Feincraft.MiniWeb\Feincraft.MiniWeb\obj\Debug\Feincraft.MiniWeb.MainFrame.resources
